@@ -1,0 +1,2 @@
+# myNewsArticle
+News article assignment
